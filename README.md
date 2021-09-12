@@ -1,1 +1,1 @@
-# DSA-FOR-INTERVIEWS
+# Leetcode-StudyPlan-DataStructure-1
